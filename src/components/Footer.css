@@ -1,0 +1,110 @@
+.section-one{
+    width: 80vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    left: 90px;
+}
+
+.logo-one{
+    width: 40%;
+}
+
+.section-one > p{
+    width: 40%;
+    padding: 10px;
+    font-size: 13px;
+    color: #fff;
+    position: relative;
+    top: 10px;
+}
+
+.section-one > a{
+    color: #000;
+    padding: 10px 20px;
+    background-color: #fff;
+    font-size: 13px;
+    border-radius: 20px;
+    position: relative;
+    top: 10px;
+}
+
+.section-two{
+    text-align: center;
+    position: relative;
+    top: 10px;
+}
+
+.section-two > i{
+    color: #fff;
+    font-size: 45px;
+    padding: 30px 50px;
+}
+
+
+
+.logo-disney{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.logo-disney > img{
+    width: 200px;
+}
+
+.line-one{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.line-one > p > a{
+    color: #fff;
+    margin-left: 20px;
+    font-family: system-ui;
+    cursor: pointer;
+}
+.line-two{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.line-two > p > a{
+    color: #fff;
+    margin-left: 20px;
+    font-family: system-ui;
+    cursor: pointer;
+}
+
+.line-three{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.line-three > p > a{
+    color: #fff;
+    margin-left: 20px;
+    font-family: system-ui;
+    cursor: pointer;
+}
+
+.line-four{
+    display: flex;
+    justify-content: center;
+
+}
+
+.line-four > p > a{
+    color: #fff;
+    margin-left: 20px;
+    font-family: system-ui;
+    padding-top: 10px;
+    font-size: 13px;
+}
+
+
+

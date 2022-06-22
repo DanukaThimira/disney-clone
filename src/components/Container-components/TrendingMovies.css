@@ -1,0 +1,28 @@
+.movies{
+    position: relative;
+    width: 100vw;
+    display: flex;
+    flex-wrap: wrap;
+    top: -140px;
+}
+
+.movie{
+    width: 170px;
+    margin-top: 5px;
+    border-radius: 5px;
+}
+
+.movie-section{
+    width: 170px;
+    margin-left: 60px;
+    padding: 8px;
+}
+
+.movie-section > p{
+    width: 100%;
+    text-align: left;
+    font-size: 17px;
+    font-family:  sans-serif;
+    color: #fff;
+}
+
